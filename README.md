@@ -155,5 +155,3 @@ Contributions are welcome!
 This project is licensed under the MIT License.
 
 ---
-
-If you want, I can tailor this README specifically for your project (e.g., Node.js app, microservices, Helm-based setup, or production-grade cluster).
