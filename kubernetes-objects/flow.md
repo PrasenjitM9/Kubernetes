@@ -1,6 +1,6 @@
 Here’s the visual diagram you asked for — it maps out how Kubernetes objects interact, from Pods all the way up to Ingress and supporting components like storage, configs, and policies:
 
-`https://copilot.microsoft.com/th/id/BCO.58945517-d469-4105-8f65-545fb352e579.png`
+![Kubernetes Architecture](images/Kubernetes_objects_i-1.png)
 
 This flowchart shows:
 - **Pods → ReplicaSets → Deployments** for workload management.  
